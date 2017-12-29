@@ -1,4 +1,8 @@
-fullstack-nanodegree-vm
+Tournament Database
 =============
+This project provides a database for a potential Swiss tournament app. 
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
+1. Creates a database in PostgreSQL using vagrant virtual machine.
+2. Defines the database schema.
+3. Connects the database and applies queries to the data in Python.
+
